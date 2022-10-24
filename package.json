@@ -10,9 +10,9 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@types/node": "16",
-    "tsx": "^3.11.0",
-    "typescript": "^4.8.4"
+    "@types/node": "16.18.0",
+    "tsx": "3.11.0",
+    "typescript": "4.8.4"
   },
   "dependencies": {
     "ini": "^3.0.1",
