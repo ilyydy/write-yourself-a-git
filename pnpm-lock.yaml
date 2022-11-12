@@ -3,7 +3,7 @@ lockfileVersion: 5.4
 specifiers:
   '@types/node': 18.11.9
   ini: ^3.0.1
-  tsx: 3.12.0
+  tsx: 3.12.1
   typescript: 4.8.4
   yargs: ^17.6.0
 
@@ -13,7 +13,7 @@ dependencies:
 
 devDependencies:
   '@types/node': 18.11.9
-  tsx: 3.12.0
+  tsx: 3.12.1
   typescript: 4.8.4
 
 packages:
@@ -376,8 +376,8 @@ packages:
       ansi-regex: 5.0.1
     dev: false
 
-  /tsx/3.12.0:
-    resolution: {integrity: sha512-Z9drA8U1/jRJRWVTS2rOwdsCfkAShwfYBlE+6BVZsZChDsgYsEZZe44MGNNK6V6wQTTtu1kRNV57MsKRMJfdpg==}
+  /tsx/3.12.1:
+    resolution: {integrity: sha512-Rcg1x+rNe7qwlP8j7kx4VjP/pJo/V57k+17hlrn6a7FuQLNwkaw5W4JF75tYornNVCxkXdSUnqlIT8JY/ttvIw==}
     hasBin: true
     dependencies:
       '@esbuild-kit/cjs-loader': 2.4.0
